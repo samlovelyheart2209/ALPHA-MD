@@ -25,12 +25,12 @@
     
     "ANTICALL_MSG": {
       "description": "Type your anticall message to always send when calls are declined. You can leave it blank",
-      "value": "This is Keith personal assistant kindly leave a message",
+      "value": "sam is not available now please wait...",
       "required": false
     },
     "BOT_NAME": {
       "description": "You must give a name for your bot",
-      "value": "",
+      "value": "sam",
       "required": false
     },
     "TIMEZONE": {
@@ -40,17 +40,17 @@
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "ALPHA;;;H4sIAAAAAAAAA61WyY7rxhX9laC20nviUJwENOASRVJqDdQ8MAiCIlmkKImDyKIk6kErb7x/DdiLNAwE8MbJKomNAP4D/8X7A31CQKkb3YDt5w5gLohCserec4dzLj+AKA4y0iEFqH8ASRrsMSXlkhYJAXXQyD2PpKAKXEwxqANfs1AzTzhDaq0Yb3Y0YqgYRsuUx5DuZj7sGlg+uCqnLZg7cK6CJLe3gfMZg5hOg9XJmh7bKyIwkbNjxFHWto1Js1hPi/l0JLRya28Z7Gl6B86lRRykQeRryYqEJMXbDikGOEjfBl/uWzBG8/ZigE1rstz24uUwlLhaNIIBWS14a5gI+9NQt/nN2+D7QtdvSaZW68ezeDQq5lbh8oFZW+ZKd7nPrc7Uivv9NWujww1+FvgRcdsuiWhAizfnvdNhdY4osVnxEO7tkWdFNWfdjwbSWvVna9zaLFTF7Pqd2fRtwAN13SiyyVK1K/2JbK9o5HuD3cTYalywDPtHXWJTP42gO3ReAx+kz72y+X/y7negvZ6NxvwxkeaoMkD9QgnbC8YZjJYzrc3KqDgUsugYofM2+BPPnGJGN4axKC4b7G6W5E7W2mmyMl6nsjLc6Unoz80NmqAX+Jjm6edQ9rxd7JqmVTsYvY5ITrpgcjVptWng+UIaqoxRGWnSjnVtBWtacxAifXbwjtNApZF5Wk/vG72dtt93d+bx3hiHVr+jROvAv7tGtCFF2wV19lwFKfGDjKaYBnFU7vFSFWB3PyZOSug1u0DqLLu1catDuRlkBFeUa/ogmls8Nrf8yGcbm+1O7a+10ZSf3oEqSNLYIVlG3FaQ0TgteiTLsE8yUP/ztVBlzCkJY0ruAxfUAScIIitCyMiC+EX2/rDCNMNJ8j4iFFSBl8Zhj4A6TXNSBdcLEq80mgLPCIoGdQkKstJkONhErKDKHNLVMsLw5nQShCSjOExAnZWgIEiMrPDn6h+DA8kabDIKauqQVZUGw0Gebag6oyBdYXRW+B0c8I/CIQi6oDOKKGiqqEmijBqq0hC0pqzzGmLR53EonHT+SxVE5EhvdLo2AVsFXpBmdBrlyTbG7jPXnj9ix4nziI6LyFHLBUlB/dU2oTSI/KyMLI9w6qyCPVHLOEDdw9uMnKvAJfvAIe1rwIe/DiWxDSeS2UtwzsdN7nh/KDtpFUe3IzLD2gwnye9YiXjvICPJ72THc98R2+FcWWI53uVAmY6bkpV3fpNYlp4ny5zjhtqsP166RXFEMSz6/dSCV3LcGEFS4j5n2cbOJk8m8YZEn5PzgXfoqQLN/ZPPkEFkGb6QZl2X8/xXdm9MA/UPL9NDjd3S3hgtmnwLSqCsVunnF91Q5/lfNkSEy9Pg8vjw9eXx4bvL48Pf/1S+Lo8P//j0w1fv33/68W8///vTD19++vGnn/97efz4z8vjx58ujx+/vzw+fHn59pt/Xb795j8lwKfqla5dQnGwzUAdqGalkPdDXeuGy9RBhoE0H6k+Ai/Vfhazm1rUethaeTMPMqP9SjI4tyco42Tpu6FfiEcnzZC/8PcrmUTM3a8YKXk1CCShvWZnmrgYFWuNR7UG5E2L8S2x2+Izj5OO9lDvzNBgd+JTFIkjDd/vjC2EBA0rlW5/6mHUGrbT/tRvL1dk1a00hnelt1vXvXZmmyOtbddGaHx058luo8Z7ykXeVsw70Gb2ijFpSGo30RWBiCfEh4aWjIWeg5tGpduu3COfneuTPMKhbY4hHJBRRd2shjeZvcr89mm8Bk8KeOtRLyDXafVUvd+t8gtdmHP1lY2n+fcbLdnwTka4XLCLSl+zITnSaGJ609283bLiXp4tOhJq67ALvVaigHOpA8kWUy9Ow/JnKHLTOHBBFWxxRtEL439FzGSxCsICJcmYYvosFACVjzYfg/P/AFfGAovaCQAA",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "sam",
       "required": false
     },
     "URL": {
@@ -60,7 +60,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547222222233')",
-      "value": "",
+      "value": "255616440856",
       "required": false
     }
   },
