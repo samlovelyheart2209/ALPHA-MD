@@ -55,7 +55,7 @@
     },
     "URL": {
       "description": "You must add your bot image URL",
-      "value": "",
+      "value": "https://telegra.ph/file/967c663a5978c545f78d6.jpg",
       "required": true
     },
     "NUMERO_OWNER": {
